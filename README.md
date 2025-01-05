@@ -1,4 +1,5 @@
 ## React Project
+[flow-digram](!public/flow-digram.png)
 
 ### `npm start`
 
